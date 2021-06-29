@@ -1,0 +1,42 @@
+h1{
+    color: #f51212;
+    border: 10px solid #0453fd;
+    background-color: #b4ff04;
+}
+body{
+    background-color: #f0f8ff;
+}
+img{
+    border: 5px solid #000000;
+    border-radius: 40px;
+}
+p{
+    font-family: comic sans ms;
+    font-weight: italic;
+    width:310px;
+}
+ol,ul{
+    font-family: comic sans ms;
+    width:310px;
+}
+.parent{
+    display:flex;
+    flex-wrap:wrap;
+}
+.parent img{
+    border: 2px solid #000000;
+    border-radius: 50px;
+}
+.origami {
+    
+    border-radius: 20px;
+    background-color: #ffffff;
+    
+    width:310px;
+    font-family: fantasy;
+    margin : 100px;
+
+}
+.origami:hover{
+transform:scale(1.2)
+}
